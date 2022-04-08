@@ -1,5 +1,5 @@
 DESTDIR?=
-PREFIX?=/usr/local
+PREFIX?=/home/s
 INSTALLBIN?=$(PREFIX)/bin
 INSTALLLIB?=$(PREFIX)/lib
 INSTALLMAN?=$(PREFIX)/man
